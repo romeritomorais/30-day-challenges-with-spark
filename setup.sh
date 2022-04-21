@@ -1,8 +1,8 @@
 sudo apt install tree
 
-if [ -d /opt/apache-spark-3.2.0 ];
+if [ -d /opt/apache-spark-3.2.0/ ];
 then
-  echo "spark-3.1.2 já Instalado ... "
+   echo "spark-3.1.2 já Instalado ... "
 else
    rm -rf /usr/local/spark-3.2.0 
    rm -rf /opt/apache-spark-3.2.0 
