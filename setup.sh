@@ -1,6 +1,6 @@
 sudo apt install tree
 
-if [ -d 30-day-challenges-with-spark/ ]
+if [ -d /content/30-day-challenges-with-spark/ ]
 then
    echo "spark-3.1.2 já Instalado ... "
 else
